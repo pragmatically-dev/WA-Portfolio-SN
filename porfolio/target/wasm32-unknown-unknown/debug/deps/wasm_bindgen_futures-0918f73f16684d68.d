@@ -1,0 +1,9 @@
+\\?\C:\Users\Santiago Nieva\rust\WA-Portfolio-SN\porfolio\target\wasm32-unknown-unknown\debug\deps\wasm_bindgen_futures-0918f73f16684d68.rmeta: C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\lib.rs C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\queue.rs C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\task\singlethread.rs
+
+\\?\C:\Users\Santiago Nieva\rust\WA-Portfolio-SN\porfolio\target\wasm32-unknown-unknown\debug\deps\libwasm_bindgen_futures-0918f73f16684d68.rlib: C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\lib.rs C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\queue.rs C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\task\singlethread.rs
+
+\\?\C:\Users\Santiago Nieva\rust\WA-Portfolio-SN\porfolio\target\wasm32-unknown-unknown\debug\deps\wasm_bindgen_futures-0918f73f16684d68.d: C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\lib.rs C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\queue.rs C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\task\singlethread.rs
+
+C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\lib.rs:
+C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\queue.rs:
+C:\Users\Santiago\ Nieva\.cargo\registry\src\github.com-1ecc6299db9ec823\wasm-bindgen-futures-0.4.29\src\task\singlethread.rs:
